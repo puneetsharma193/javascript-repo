@@ -28,7 +28,7 @@ const url = "https://sharmajii.com/puneet%#sharma"
 console.log(url.replace('%#',"  "))
 
 console.log(url.includes('jii'))
-console.log(url.split('/'))
+// console.log(url.split('/'))
 
 
 
