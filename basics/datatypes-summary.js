@@ -11,13 +11,16 @@
 // const anotherId = Symbol('abc')  //Symbol---> It defines uniqueness
 // console.log(id===anotherId)
 
-// const bigNumber = 112938023742039470294723094n
+const bigNumber = 112938023742039470294723094n
+console.log(typeof bigNumber)
 
 
 
 // 7 types : Boolean, String, Number, Bigint, Null, Undefined, Symbol 
 
 // Reference (Non-Primitive)
+
+// Array ,Object ,Functions
 
 // const heros = [ 'Arjun','Krishna','Bheeshma'];
 // let myObj = {

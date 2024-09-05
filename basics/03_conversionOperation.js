@@ -3,9 +3,9 @@ let score;
 console.log(typeof score)
 console.log(typeof(score))
 
-// let value = Boolean(score)
-// console.log(typeof value)
-// console.log(value)
+let value = Boolean(score)
+console.log(typeof value)
+console.log(value)
 
 //In boolean 
 //"" => false
@@ -26,8 +26,8 @@ console.log(typeof(score))
 
 // ########## Operations ########################//
 
-let value = 3
-let negvalue = -value
+// let value = 3
+// let negvalue = -value
 // console.log(negvalue)
 
 // console.log(2+2)
@@ -47,8 +47,8 @@ let negvalue = -value
 // console.log("1"+2+2)//122 -->string is converted first
 // console.log(1+2+"2")//32 -->string is converted last
 
-// console.log(+true)
-// console.log(+"")
+console.log(+true)
+console.log(+"")
 
 let level = 101
 ++level
