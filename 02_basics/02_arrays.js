@@ -1,14 +1,14 @@
 const arr1 = [1, 2, 3, 4, 5, 6, 7];
 const arr2 = ["abc", "def", "ghi"];
 
-// arr1.push(arr2)
+// arr1.push(arr2);
 // console.log(arr1);
 
 myArr = arr1.concat(arr2);
-// console.log(myArr);
+console.log(myArr);
 
 const allArr = [...arr1, ...arr2, ...myArr]; //  Spread operator
-// console.log(allArr);
+console.log(allArr);
 
 const arr3 = [
   10,
